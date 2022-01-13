@@ -5,12 +5,16 @@ Desarrollo de las distintas pantallas de una tienda virtual (Sign up, Login, Ini
 Aclaración:
 La razón de mantener el HTML y CSS de cada sección de la tienda en un solo archivo .html es para facilitar el trabajo de separar y unir todo ese código cuando tome el curso de Curso Práctico de React.js más adelante en mi ruta de aprendizaje. Uno de sus objetivos es enseñar cómo convertir páginas en HTML y CSS a componentes en React. Allí se descargarán estos archivos para separarlo entre vistas, componentes y contenedores.
 
+![image](https://user-images.githubusercontent.com/60717025/149339839-c6b1e639-b6ef-401e-856c-e3b5062f35a7.png)
+
+![image](https://user-images.githubusercontent.com/60717025/149339237-8bbbaeb9-e796-4cec-899a-627a1d2ea365.png)
+
+![image](https://user-images.githubusercontent.com/60717025/149339941-6fcb3a02-4eee-44b1-9325-4113fa5f29ae.png)
+
+
 
 ## Pantallas Desktop:
 
-![01](https://user-images.githubusercontent.com/60717025/149331607-023bf66b-18cc-4574-bbe9-8d83eadc3093.PNG)
-![02](https://user-images.githubusercontent.com/60717025/149331609-98c6720e-ae9d-4686-b9a3-0da69db394a6.PNG)
-![03](https://user-images.githubusercontent.com/60717025/149331614-895ba3c2-d23d-4360-a9f5-49e60d38991a.PNG)
 ![04](https://user-images.githubusercontent.com/60717025/149331617-857aab37-c299-48bd-93c0-ce8cd0b2878d.PNG)
 ![05](https://user-images.githubusercontent.com/60717025/149331627-7baab96a-3ca7-438d-afc7-35ea8d6a7162.PNG)
 ![06](https://user-images.githubusercontent.com/60717025/149331633-aefadbb6-bd5f-41b5-ae2b-7832223af5be.PNG)
@@ -22,7 +26,9 @@ La razón de mantener el HTML y CSS de cada sección de la tienda en un solo arc
 ![12](https://user-images.githubusercontent.com/60717025/149331658-3fd02b6c-68b5-47ed-b475-14a46e14cc72.PNG)
 ![13](https://user-images.githubusercontent.com/60717025/149331659-be7fb0ba-87f3-44ff-8e5a-01729df485c6.PNG)
 ![14](https://user-images.githubusercontent.com/60717025/149331662-791e5026-4de6-4d02-ac31-cef35029b35a.PNG)
-
+![01](https://user-images.githubusercontent.com/60717025/149331607-023bf66b-18cc-4574-bbe9-8d83eadc3093.PNG)
+![02](https://user-images.githubusercontent.com/60717025/149331609-98c6720e-ae9d-4686-b9a3-0da69db394a6.PNG)
+![03](https://user-images.githubusercontent.com/60717025/149331614-895ba3c2-d23d-4360-a9f5-49e60d38991a.PNG)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
